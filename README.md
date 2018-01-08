@@ -779,6 +779,12 @@ and anti-analysis techniques.
 	- [Final Projects](http://css.csail.mit.edu/6.858/2014/projects.html)
 - [18-636](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013) **Browser Security** *Stanford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The Web continues to grow in popularity as platform for retail transactions, financial services, and rapidly evolving forms of communication. It is becoming an increasingly attractive target for attackers who wish to compromise users' systems or steal data from other sites. Browser vendors must stay ahead of these attacks by providing features that support secure web applications. This course will study vulnerabilities in existing web browsers and the applications they render, as well as new technologies that enable web applications that were never before possible. The material will be largely based on current research problems, and students will be expected to criticize and improve existing defenses. Topics of study include (but are not limited to) browser encryption, JavaScript security, plug-in security, sandboxing, web mashups, and authentication.
+	
+[Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+
+[Reverse Engineering Malware 102](https://securedorg.github.io/RE102/)
+
+
 
 -------
 ### Artificial Intelligence
